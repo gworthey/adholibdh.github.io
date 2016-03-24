@@ -1,6 +1,6 @@
 # Hyde
 
-The “Libraries and Digital Humanities” Special Interest Group [Lib&DH SIG] (http://adho.org/sigs) was officially established in 2015 by the international Alliance of Digital Humanities Organizations (ADHO) (http://adho.org).  With conveners from five different countries, blah blah.  
+The “Libraries and Digital Humanities” Special Interest Group [(Lib&DH SIG)] (http://adho.org/sigs) was officially established in 2015 by the international Alliance of Digital Humanities Organizations [(ADHO)] (http://adho.org).  With conveners from five different countries, blah blah.  
 
 ![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
 
