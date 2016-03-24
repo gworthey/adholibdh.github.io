@@ -1,4 +1,4 @@
-# Hyde
+# Libraries and Digital Humanities
 
 The “Libraries and Digital Humanities” Special Interest Group [(Lib&DH SIG)] (http://adho.org/sigs) was officially established in 2015 by the international Alliance of Digital Humanities Organizations [(ADHO)] (http://adho.org).  With conveners from five different countries, the goals of this SIG are:
 
@@ -8,7 +8,7 @@ The “Libraries and Digital Humanities” Special Interest Group [(Lib&DH SIG)]
 4. to provide information about available resources and opportunities (e.g., training, funding) that encourage collaboration between DH scholars in a variety of roles, especially in libraries; 
 5. to showcase the work of librarians engaged in the digital humanities; and to promote librarians’ perspectives and skills in the greater DH community worldwide.
 
-![Lib&DH Poster](ADHOLibDH.github.io/assets/sig-adho.jpg)
+![Lib&DH Poster](/assets/sig-adho.jpg)
 
 
 ## Contents
