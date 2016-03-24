@@ -8,7 +8,7 @@ The “Libraries and Digital Humanities” Special Interest Group [(Lib&DH SIG)]
 4. to provide information about available resources and opportunities (e.g., training, funding) that encourage collaboration between DH scholars in a variety of roles, especially in libraries; 
 5. to showcase the work of librarians engaged in the digital humanities; and to promote librarians’ perspectives and skills in the greater DH community worldwide.
 
-![Hyde screenshot](https://f.cloud.github.com/assets/98681/1831228/42af6c6a-7384-11e3-98fb-e0b923ee0468.png)
+![Lib&DH Poster](https://drive.google.com/file/d/0BxkhtDgbwP_XdVd0Rk1xcXdPWWM/view?usp=sharing)
 
 
 ## Contents
