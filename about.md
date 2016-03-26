@@ -13,24 +13,17 @@ ADHO = Alliance for Digital Humanities Organizations
 </p>
 SIG = Special Interest Group
 <p class="message">
-These are ADHO sponsored groups designed to "enable members of ADHO Constituent Organisations with similar professional specialties, interests, and aptitudes to exchange ideas, keep themselves current on pertinent developments, and mobilize in pursuit of related activities and goals."  There are currently five [ADHO SIGs](http://adho.org/sigs): Global Outlook, Audiovisual Data in Digital Humanities, GeoHumanities, Linked Open Data, and our Libraries and DH.     
+These are ADHO sponsored groups designed to "enable members of ADHO Constituent Organisations with similar professional specialties, interests, and aptitudes to exchange ideas, keep themselves current on pertinent developments, and mobilize in pursuit of related activities and goals."  There are currently five ADHO SIGs: Global Outlook, Audiovisual Data in Digital Humanities, GeoHumanities, Linked Open Data, and our Libraries and DH.     
 </p>
 
 Who are the conveners of the Libraries and DH SIG?  
 Zoe Borovsky, UCLA, USA
-
 Angela Courtney, Indiana University, Bloomington, USA
-
 Isabel Galina, UNAM, Mexico
-
 Stefanie Gehrke, Biblissima, France
-
 Hege Høsøien, National Library, Norway
-
 Sarah Potvin, Texas A&M University, USA
-
 Thomas Staeker, Herzog August Library, Germany
-
 Glen Worthey, Stanford University, USA
 
 
