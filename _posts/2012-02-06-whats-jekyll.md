@@ -1,12 +1,15 @@
 ---
 layout: post
-title: What's Jekyll?
+title: ADHO's new Special Interest Group: Libraries and DH!  
 ---
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+The “Libraries and Digital Humanities” Special Interest Group (Lib&DH SIG) was officially established in 2015 by the international Alliance of Digital Humanities Organizations [(ADHO)] (http://adho.org/). With conveners from five different countries, the goals of this SIG are:
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+1. to offer advice and support to librarians engaged in digital humanities pursuits;
+2. to advocate for initiatives of interest and benefit to both libraries and digital humanities;
+3. to document how librarians and library-based units meet the many challenges, and take advantage of the many opportunities, of DH librarianship;
+4. to provide information about available resources and opportunities (e.g., training, funding) that encourage collaboration between DH scholars in a variety of roles, especially in libraries;
+5. to showcase the work of librarians engaged in the digital humanities; and to promote librarians’ perspectives and skills in the greater DH community worldwide.
 
-It's an immensely useful tool and one we encourage you to use here with Hyde.
-
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+Find out more by [reading our SIG proposal](https://drive.google.com/file/d/0BzNEqaRgVCa0T0pHSzV2RnRkNk0/view?pref=2&pli=1.
+Join our [email discussion list]: (http://lists.digitalhumanities.org/mailman/listinfo/libdh-sig)
