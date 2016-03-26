@@ -18,11 +18,12 @@ These are ADHO sponsored groups designed to "enable members of ADHO Constituent 
 
 Who are the conveners of the Libraries and DH SIG?  
 <p class="message">
-Zoe Borovsky, UCLA, USA
+<ul>
+<li>Zoe Borovsky, UCLA, USA</li>
 
-Angela Courtney, Indiana University, Bloomington, USA
+<li>Angela Courtney, Indiana University, Bloomington, USA</li>
 
-Isabel Galina, UNAM, Mexico
+<li>Isabel Galina, UNAM, Mexico</li>
 
 Stefanie Gehrke, Biblissima, France
 
