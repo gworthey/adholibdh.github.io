@@ -17,25 +17,17 @@ These are ADHO sponsored groups designed to "enable members of ADHO Constituent 
 </p>
 
 Who are the conveners of the Libraries and DH SIG?  
-<p class="message">
-<ul>
-<li>Zoe Borovsky, UCLA, USA</li>
-
-<li>Angela Courtney, Indiana University, Bloomington, USA</li>
-
-<li>Isabel Galina, UNAM, Mexico</li>
-
+Zoe Borovsky, UCLA, USA
+Angela Courtney, Indiana University, Bloomington, USA
+Isabel Galina, UNAM, Mexico
 Stefanie Gehrke, Biblissima, France
-
 Hege Høsøien, National Library, Norway
-
 Sarah Potvin, Texas A&M University, USA
-
 Thomas Staeker, Herzog August Library, Germany
-
 Glen Worthey, Stanford University, USA
-</p>
 
+Any questions about the Libraries and Digital Humanities SIG?
+You can email Zoe Borovsky:  zoe(at)library.ucla.edu
 
 
 {% if site.data.events.size > 0 %}
