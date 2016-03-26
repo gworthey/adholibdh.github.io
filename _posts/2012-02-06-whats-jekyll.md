@@ -12,6 +12,8 @@ The “Libraries and Digital Humanities” Special Interest Group (Lib&DH SIG) w
 5. to showcase the work of librarians engaged in the digital humanities; and to promote librarians’ perspectives and skills in the greater DH community worldwide.
 
 Find out more by [reading our SIG proposal](https://drive.google.com/file/d/0BzNEqaRgVCa0T0pHSzV2RnRkNk0/view?pref=2&pli=1.)
+
 Join our [email discussion list](http://lists.digitalhumanities.org/mailman/listinfo/libdh-sig)
+
 Follow us on [Twitter]
 
