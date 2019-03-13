@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Libraries and Digital Humanities
 tagline:          'Website for the ADHO Libraries and DH SIG'
 description:      'ADHO SIG where Digital Humanities and Libraries meet'
-url:              http://adholibdh.github.io
+url:              https://adholibdh.github.io
 baseurl:          /
 
 author:
