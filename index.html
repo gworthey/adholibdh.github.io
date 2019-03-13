@@ -2,8 +2,27 @@
 layout: default
 title: Home
 ---
+<div>
+  <h2>Welcome!</h2>
+  <p>The Libraries and Digital Humanities Special Interest Group (Lib&DH SIG) was established in 2015 by the international Alliance of Digital Humanities Organizations ADHO. With conveners from five different countries, the goals of this SIG are:</p>
+  <ul>
+    <li>to offer advice and support to librarians engaged in digital humanities pursuits;</li>
+    <li>to advocate for initiatives of interest and benefit to both libraries and digital humanities;</li>
+    <li>to document how librarians and library-based units meet the many challenges, and take advantage of the many opportunities, of DH librarianship;</li>
+    <li>to provide information about available resources and opportunities (e.g., training, funding) that encourage collaboration between DH scholars in a variety of roles, especially in libraries;</li>
+    <li>to showcase the work of librarians engaged in the digital humanities; and to promote librarians’ perspectives and skills in the greater DH community worldwide.</li>
+  </ul>
+</div>
 
-<div class="posts">
+<div>
+  <h2>Recent Posts</h2>
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
+
+<!-- <div class="posts">
   {% for post in paginator.posts %}
   <div class="post">
     <h2 class="post-title">
@@ -17,7 +36,7 @@ title: Home
     {{ post.excerpt }}
   </div>
   {% endfor %}
-</div>
+</div> -->
 
 <div class="pagination">
   {% if paginator.next_page %}

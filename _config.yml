@@ -7,13 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Libraries and Digital Humanities
-tagline:          'An ADHO Special Interest Group where Digital Humanities and Libraries meet'
-description:      'Website for the ADHO Libraries and DH SIG.'
+tagline:          'Website for the ADHO Libraries and DH SIG'
+description:      'ADHO SIG where Digital Humanities and Libraries meet'
 url:              http://adholibdh.github.io
 baseurl:          /
 
 author:
-  name:           
+  name:
   url:            https://twitter.com/LibsDH
 
 paginate:         5
