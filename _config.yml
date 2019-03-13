@@ -6,14 +6,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            ADHO Libraries and DH SIG
-tagline:          'A site for Digital Humanities and Libraries'
-description:      'Website for the ADHO Libraries and Digital Humanities SIG.'
-url:              http://ADHOLibDH.github.io
+title:            Libraries and Digital Humanities
+tagline:          'An ADHO Special Interest Group where Digital Humanities and Libraries meet'
+description:      'Website for the ADHO Libraries and DH SIG.'
+url:              http://adholibdh.github.io
 baseurl:          /
 
 author:
-  name:           'Zoe Borovsky'
+  name:           
   url:            https://twitter.com/LibsDH
 
 paginate:         5
@@ -25,4 +25,4 @@ github:
   repo:           https://github.com/ADHOLibDH
 
 # Plugins
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
