@@ -22,7 +22,7 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/ADHOLibDH
+  repo:           https://github.com/adholibdh
 
 # Plugins
 plugins: [jekyll-paginate]
