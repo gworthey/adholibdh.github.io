@@ -19,7 +19,7 @@ Join our [email discussion list](http://lists.digitalhumanities.org/mailman/list
 
 Follow us on [Twitter]    
 
-### Cnveners of the Libraries & DH SIG
+### Conveners of the Libraries & DH SIG
   
 * Zoe Borovsky, UCLA, USA
 * Angela Courtney, Indiana University, Bloomington, USA
